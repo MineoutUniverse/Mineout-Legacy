@@ -1,0 +1,125 @@
+[
+  {
+    "dimension": 0,
+    "mob": "lycanitesmobs:vespid",
+	"customname": "Stingwing",
+	"healthmultiply": 2,
+    "maxcount": {
+      "amount": 5,
+      "mob": "lycanitesmobs:vespid",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "animalium:wild_dog",
+	"customname": "Feral Dog",
+    "maxcount": {
+      "amount": 5,
+      "mob": "animalium:wild_dog",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "lycanitesmobs:tarantula",
+	"customname": "Rad Crawler",
+    "maxcount": {
+      "amount": 30,
+      "mob": "lycanitesmobs:tarantula",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+	"incity": "true",
+    "mob": "mw:bandit1",
+	"customname": "Raider",
+	"armorhelmet": "mw:m40gasmask_helmet",
+	"armorchest": "mw:ncr_chest",
+	"armorboots": "mw:ncr_boots",
+	"helditem": ["mw:browning_high_power", "mw:tarus_raging_hunter", "mw:ks23"],
+    "maxcount": {
+      "amount": 1,
+      "mob": "mw:bandit1",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+	"inbuilding": "true",
+    "mob": "cyberware:cyberzombie",
+	"customname": "Cyber Ghoul",
+	"healthmultiply": 2,
+	"speedmultiply": 1.5,
+	"damagemultiply": 1.75,
+	"armorhelmet": "mw:m40gasmask_helmet",
+    "maxcount": {
+      "amount": 7,
+      "mob": "cyberware:cyberzombie",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+	"inbuilding": "true",
+    "mob": "nuclearcraft:feral_ghoul",
+	"customname": "Feral Ghoul",
+	"healthmultiply": 0.75,
+	"speedmultiply": 1.25,
+    "maxcount": {
+      "amount": 10,
+      "mob": "nuclearcraft:feral_ghoul",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+	"maxheight": 55,
+	"maxlight": 5,
+    "mob": "lycanitesmobs:ghoul",
+	"customname": "Fungal Ghoul",
+	"speedmultiply": 0.75,
+    "maxcount": {
+      "amount": 15,
+      "mob": "lycanitesmobs:ghoul",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+	"maxheight": 55,
+	"maxlight": 5,
+    "mob": "animalium:rat",
+	"customname": "Rad Rat",
+    "maxcount": {
+      "amount": 15,
+      "mob": "animalium:rat",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+	"incity": "false",
+    "mob": "lycanitesmobs:calpod",
+	"customname": "Giant Ant",
+	"healthmultiply": 2,
+    "maxcount": {
+      "amount": 9,
+      "mob": "lycanitesmobs:calpod",
+      "perchunk": true
+    },
+    "result": "allow"
+  },
+  {
+    "result": "deny"
+  }
+]

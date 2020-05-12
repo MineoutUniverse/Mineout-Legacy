@@ -1,0 +1,24 @@
+undone mobs
+ender dragon = bloodbug 
+shulker = mirelurk
+ender crystal = institute-ish healing orb (damaged as it releases radiation)
+horse = giddyup buttercup
+rabbit = far harbor's rabbit
+shield = junk shield
+ice skeleton = winterized raider
+zombie villager = ghoul
+desert zombie = dry ghoul
+alex (female default skin) = generic female vault dweller
+bat = irradiated bat
+endermite = glowing radroach
+guardian = far harbor's irradiated sea creatures
+snow man = idk
+witch = junkie addicted to nuka-cola
+wither = robotic abomination
+wither skeleton = 1st gen sinth
+
+undone biome
+the end = glowing sea
+
+undone status effect 
+whither = electrified

@@ -1,0 +1,16 @@
+[
+  {
+    "mob": "lycanitesmobs:ghoul",
+	"item": "minecraft:slime_ball",
+	"itemcount": "0-2/2-4/4-6"
+  },
+  {
+    "mob": "minecraft:zombie",
+	"item": "cyberware:cybereyes",
+	"itemcount": "0-1"
+  },
+  {
+    "mob": "lycanitesmobs:vespid",
+	"remove": ["lycanitesmobs:acidsplashcharge", "lycanitesmobs:vespidstinger"]
+  }
+]

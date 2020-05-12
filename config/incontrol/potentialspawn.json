@@ -1,0 +1,114 @@
+[
+  {
+    "dimension": 0,
+	"incity": "true",
+    "block": "biomesoplenty:dried_sand",
+    "mobs": [
+      {
+        "mob": "animalium:wild_dog",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+	"instreet": "true",
+    "mobs": [
+      {
+        "mob": "mw:bandit1",
+        "weight": 6,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "biomesoplenty:dried_sand",
+    "mobs": [
+      {
+        "mob": "lycanitesmobs:vespid",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "liquid:poison",
+    "mobs": [
+      {
+        "mob": "lycanitesmobs:tarantula",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "inbuilding": "true",
+	"minheight": 50,
+    "mobs": [
+      {
+        "mob": "cyberware:cyberzombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "inbuilding": "true",
+	"minheight": 50,
+    "mobs": [
+      {
+        "mob": "nuclearcraft:feral_ghoul",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "maxheight": 55,
+    "mobs": [
+      {
+        "mob": "lycanitesmobs:ghoul",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "maxheight": 55,
+    "mobs": [
+      {
+        "mob": "animalium:rat",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+	"block": "biomesoplenty:dried_sand",
+	"incity": "false",
+    "mobs": [
+      {
+        "mob": "lycanitesmobs:calpod",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  }
+]
